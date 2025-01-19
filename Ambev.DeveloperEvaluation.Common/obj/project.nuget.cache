@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pirUun66v8U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ambevAPI\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/geniallabs/_packaging/geniallabs/nuget/v3/index.json."
+    }
+  ]
+}
